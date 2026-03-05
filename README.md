@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi there, I'm Sameer Prasad! 👋 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Full-stack+Developer+In+Training;Building+CU-Archive;Open+Source+Contributor;Based+in+Kolkata%2C+India" alt="Typing SVG" />
+</p>
 
-<!--
-**sameer76-byte/Sameer76-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ About Me
+I am a developer who loves turning complex problems into simple, functional code. Currently, I'm focusing on the **MERN stack** and architectural best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Scaling **[CU-Archive](https://github.com/sameer76-byte/CU-Archive)**, a digital repository solution for academic resources.
+- 🌱 **Learning:** Deep diving into Backend Architecture and API Optimization.
+- 💬 **Ask me about:** JavaScript, React, or why I'm passionate about clean code.
+- 🎯 **2026 Goal:** Land my first full-time developer role and contribute to impactful projects.
+- ⚡ **Fun Fact:** I pushed 30+ commits to a single project in March 2026—ask me about the features I shipped!
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Frontend & Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📂 Featured Project: [CU-Archive](https://github.com/sameer76-byte/CU-Archive)
+*A specialized archive system designed to streamline academic resource sharing for university students and faculty.*
+
+* **📚 Resource Management:** Upload, categorize, and search materials efficiently.
+* **👥 User Authentication:** Secure login system for students and faculty members.
+* **📱 Responsive Design:** Seamless experience across all device types.
+* **🏗️ Tech:** React, Node.js (In Progress), MongoDB (In Progress).
+
+**Latest Milestone:** Successfully moved from concept to functional prototype with 30+ iterative updates in 30 days.
+
+<p align="left">
+  <a href="https://github.com/sameer76-byte/CU-Archive">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer76-byte&theme=radical&border_radius=10" width="48%" />
+</p>
+  
+---
+
+### 📊 Recent Activity
+- 📦 **Created 30 commits** in CU-Archive (March 2026)
+- 🔍 Working on implementing **Advanced Search** functionality
+- 🐛 Fixed UI bugs in **mobile responsive** layout
+- 📝 Updated comprehensive project documentation
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:sameerprasad981@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameer-prasad-981/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameer76-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center"><i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i></p>
