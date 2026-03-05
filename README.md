@@ -38,10 +38,25 @@ I am a developer who loves turning complex problems into simple, functional code
 ### 📂 Featured Project: [CU-Archive](https://github.com/sameer76-byte/CU-Archive)
 *A specialized archive system designed to streamline academic resource sharing for university students and faculty.*
 
-* **📚 Resource Management:** Upload, categorize, and search materials efficiently.
-* **👥 User Authentication:** Secure login system for students and faculty members.
-* **📱 Responsive Design:** Seamless experience across all device types.
-* **🏗️ Tech:** React, Node.js (In Progress), MongoDB (In Progress).
+## 🌟 Project Highlights
+
+> **CU-Archive** is built with a mission to democratize access to academic resources. Here is what makes it unique:
+
+### 📖 The Core Experience
+* **📚 Question Paper Archive**
+    Browse a massive library of **2500+ papers** meticulously organized across **BSc, BA, and BCom** streams. No more hunting through messy folders.
+* **🔓 Open Access**
+    Education should be barrier-free. Enjoy **complete access** with no login required—get the papers you need in under 3 clicks.
+
+### 🛠️ Technical Foundation
+* **🏗️ Modern Tech Stack**
+    Built using **HTML5, CSS3, and JavaScript** for speed, with **Google Drive** as a powerful storage engine. Currently migrating to **Supabase** for a more dynamic, data-driven experience.
+* **📱 Seamlessly Responsive**
+    Whether you are on a laptop in the library or a smartphone in the hallway, the design scales perfectly for a **seamless experience**.
+
+### 🚀 What's Coming Next
+* **👥 User Authentication**
+    I am currently building a secure login system to allow for **personalized features** like bookmarking favorite papers and viewing download history.
 
 **Latest Milestone:** Successfully moved from concept to functional prototype with 30+ iterative updates in 30 days.
 
