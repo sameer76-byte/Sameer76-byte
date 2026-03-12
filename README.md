@@ -1,101 +1,187 @@
-# Hi there, I'm Sameer Prasad! 👋 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Full-stack+Developer+In+Training;Building+CU-Archive;Open+Source+Contributor;Based+in+Kolkata%2C+India" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=170,145,200&height=220&section=header&text=Sameer%20Prasad&fontSize=65&fontAlignY=38&desc=Developer%20In%20Training%20%7C%20Java%20%2B%20DSA%20%7C%20Web%20Dev%20%7C%20Open%20Source&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### ⚡ About Me
-I am a developer who loves turning complex problems into simple, functional code. Currently, I'm focusing on the **MERN stack** and architectural best practices.
-
-- 🔭 **Current Focus:** Scaling **[CU-Archive](https://github.com/sameer76-byte/CU-Archive)**, a digital repository solution for academic resources.
-- 🌱 **Learning:** Deep diving into Backend Architecture and API Optimization.
-- 💬 **Ask me about:** JavaScript, React, or why I'm passionate about clean code.
-- 🎯 **2026 Goal:** Land my first full-time developer role and contribute to impactful projects.
-- ⚡ **Fun Fact:** I pushed 30+ commits to a single project in March 2026—ask me about the features I shipped!
-
----
-
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend & Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📂 Featured Project: [CU-Archive](https://github.com/sameer76-byte/CU-Archive)
-*A specialized archive system designed to streamline academic resource sharing for university students and faculty.*
-
-## 🌟 Project Highlights
-
-> **CU-Archive** is built with a mission to democratize access to academic resources. Here is what makes it unique:
-
-### 📖 The Core Experience
-* **📚 Question Paper Archive**
-    Browse a massive library of **2500+ papers** meticulously organized across **BSc, BA, and BCom** streams. No more hunting through messy folders.
-* **🔓 Open Access**
-    Education should be barrier-free. Enjoy **complete access** with no login required—get the papers you need in under 3 clicks.
-
-### 🛠️ Technical Foundation
-* **🏗️ Modern Tech Stack**
-    Built using **HTML5, CSS3, and JavaScript** for speed, with **Google Drive** as a powerful storage engine. Currently migrating to **Supabase** for a more dynamic, data-driven experience.
-* **📱 Seamlessly Responsive**
-    Whether you are on a laptop in the library or a smartphone in the hallway, the design scales perfectly for a **seamless experience**.
-
-### 🚀 What's Coming Next
-* **👥 User Authentication**
-    I am currently building a secure login system to allow for **personalized features** like bookmarking favorite papers and viewing download history.
-
-**Latest Milestone:** Successfully moved from concept to functional prototype with 30+ iterative updates in 30 days.
-
-<p align="left">
-  <a href="https://github.com/sameer76-byte/CU-Archive">
-    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Ecosystem
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer76-byte&theme=radical&border_radius=10" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Developer+In+Training+%F0%9F%9A%80;Java+%2B+DSA+%E2%98%95+%7C+Web+Fundamentals+%F0%9F%8C%90;Hackathon+Participant+%F0%9F%8F%86;LeetCode+%26+HackerRank+Grinder+%F0%9F%94%A5;Based+in+Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </p>
-  
----
 
-### 📊 Recent Activity
-- 📦 **Created 30 commits** in CU-Archive (March 2026)
-- 🔍 Working on implementing **Advanced Search** functionality
-- 🐛 Fixed UI bugs in **mobile responsive** layout
-- 📝 Updated comprehensive project documentation
-
----
-
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:sameerprasad981@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/sameer-prasad-981/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:sameerprasad981@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sameer76-byte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sameer76-byte&label=Profile+Views&color=a855f7&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameer76-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+---
 
-<p align="center"><i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i></p>
+## 👨‍💻 About Me
+
+I'm a developer from Kolkata who loves turning complex problems into clean, functional code. Currently building a strong foundation across **Java & DSA**, **web development**, and **competitive programming** — with everything pointing toward my first full-time developer role in 2026.
+
+```javascript
+const sameer = {
+  location    : "Kolkata, India 🇮🇳",
+  currentFocus: ["Java + DSA", "Web Projects", "Competitive Coding"],
+  knows       : ["Java", "HTML", "CSS", "JavaScript", "SQL (basics)"],
+  experience  : ["Hackathon Participant 🏆", "LeetCode & HackerRank 🔥"],
+  learning    : ["Algorithms", "OOP Deep Dive", "Backend (coming soon)"],
+  goal2026    : "Land first full-time developer role 🎯",
+  funFact     : "30+ commits to CU-Archive in a single month ⚡"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### Competitive Coding
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+
+### Currently Learning
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-a855f7?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/Java%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🏅 Hackathons | 💻 Competitive Coding | 🌐 Web Projects |
+|:---:|:---:|:---:|
+| Participated in multiple hackathons | Active on LeetCode & HackerRank | Built static sites, JS mini-projects |
+| Collaborated under time pressure | Solving DSA problems regularly | CU-Archive — main featured project |
+| Shipped real features fast | Sharpening problem-solving skills | Mobile-responsive layouts |
+
+</div>
+
+---
+
+## 📂 Projects
+
+### 🏛️ [CU-Archive](https://github.com/sameer76-byte/CU-Archive)
+> Academic resource archive for university students and faculty — my most active project.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 📦 30+ commits shipped in March 2026
+- 🔍 Advanced Search functionality
+- 📱 Mobile-responsive UI
+- 📝 Full project documentation
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameer76-byte/CU-Archive)
+
+---
+
+### 🌐 Web Projects
+> A mix of landing pages, static sites, and JavaScript mini-projects built while learning.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 🖥️ Responsive landing pages
+- ⚙️ JavaScript mini-projects (interactive UI, DOM manipulation)
+- 🎨 CSS layout & design practice
+
+---
+
+### ☕ [Java + DSA Roadmap](https://github.com/sameer76-byte)
+> Structured learning repo — from Java basics to advanced algorithms.
+
+```text
+java-learning-dsa/
+├── 01-basics/           # Core syntax, operators, control flow
+├── 02-oop/              # Classes, Inheritance, Polymorphism
+├── 03-advanced-core/    # Collections, Generics, Multithreading
+├── 04-data-structures/  # Linked Lists, Trees, Graphs
+├── 05-algorithms/       # Sorting, Searching, DP, Greedy
+├── 06-projects/         # Mini-projects (Banking System, etc.)
+├── 07-competitive/      # LeetCode / HackerRank solutions
+└── notes/               # Markdown cheatsheets & theory
+```
+
+**Progress:**
+- [x] `01-Basics` — Core Syntax & Logic *(In Progress)*
+- [ ] `02-OOP` — Object-Oriented Principles
+- [ ] `03-Advanced-Core` — Collections & Streams
+- [ ] `04-Data-Structures` — Linear & Non-Linear
+- [ ] `05-Algorithms` — Paradigms & Optimization
+- [ ] `06-Projects` — Real-world Applications
+- [ ] `07-Competitive` — LeetCode & HackerRank
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer76-byte&show_icons=true&theme=tokyonight&border_color=a855f7&bg_color=0d0d0d&title_color=c084fc&icon_color=f472b6&text_color=e2e8f0&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer76-byte&theme=tokyonight&border=a855f7&background=0d0d0d&stroke=a855f7&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&border_radius=12" width="49%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer76-byte&layout=compact&theme=tokyonight&border_color=a855f7&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0&border_radius=12&langs_count=6" width="40%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer76-byte&bg_color=0d0d0d&color=c084fc&line=a855f7&point=f472b6&area=true&area_color=a855f720&border_radius=12&hide_border=false" width="98%" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] 🏆 Participate in more hackathons
+- [ ] 💻 Solve **100+ problems** on LeetCode & HackerRank
+- [ ] ☕ Complete the full **Java + DSA Roadmap**
+- [ ] 🌐 Build & deploy **3+ web projects**
+- [ ] 🔧 Start learning **backend development**
+- [ ] 🚀 Ship **CU-Archive v1.0**
+- [ ] 💼 Land my **first full-time developer role**
+
+---
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+  <br/><br/>
+
+  <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=170,145,200&height=120&section=footer" width="100%"/>
+
+</div>
